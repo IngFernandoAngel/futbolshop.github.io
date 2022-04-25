@@ -1,2 +1,2 @@
 # futbolshop.github.io
-Tienda en linea de articulos y accesorio de futbol soccer
+Tienda en linea de articulos y accesorios de futbol soccer
